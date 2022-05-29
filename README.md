@@ -14,3 +14,5 @@ https://drive.google.com/file/d/1x_YRTxCj74Gdy4LHw8cVaX0dQoYbByuH/view?usp=shari
 
 #Pickle File Link
 https://drive.google.com/file/d/1-rJiQklWRJhIuCPRUeOK0Pdck5LDzEhV/view?usp=sharing
+
+IMP: Maindatory to download both the files (dataset & pickle) for cloning repo and then run on localhost.
